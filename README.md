@@ -1,1 +1,1 @@
-# BlogApp
+MERN Blog app application
